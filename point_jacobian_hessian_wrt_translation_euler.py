@@ -116,7 +116,7 @@ for r in range(18):
         print("H[{}, {}]: {}".format(r, c, H_simple[r, c]))
         # sp.pprint()
 
-# latex math equations oneline: https://www.latexlive.com/
+# latex math equations online: https://www.latexlive.com/
 
 # H_latex = sp.latex(H)
 # sp.pprint(H_simple)
